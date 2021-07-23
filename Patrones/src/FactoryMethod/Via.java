@@ -3,15 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Builder;
+package FactoryMethod;
 
 /**
  *
  * @author erisi
  */
-public class Barco implements Transporte{
-    @Override
-    public void enviar(){
-        
+public abstract class Via {
+
+    public void planDeEnvio(){
+        /**
+         * Se especifica el plan de envio 
+         */
     }
+    
+    public abstract void createTransport();
 }

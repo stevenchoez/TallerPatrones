@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Builder;
+package FactoryMethod;
 
 /**
  *
  * @author erisi
  */
-public class ViaFluvial extends Via{
+public class ViaFerrea extends Via{
     @Override
     public void createTransport(){
         /**

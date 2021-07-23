@@ -3,12 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/steve/Downloads/Patrones/Patrones/src/Facade/SitioWeb.java</file>
-            <file>file:/C:/Users/steve/Downloads/Patrones/Patrones/src/Facade/Reparador.java</file>
-            <file>file:/C:/Users/steve/Downloads/Patrones/Patrones/src/Facade/ProductoConFallas.java</file>
-            <file>file:/C:/Users/steve/Downloads/Patrones/Patrones/src/Facade/ProductoDisponible.java</file>
-            <file>file:/C:/Users/steve/Downloads/Patrones/Patrones/src/Facade/Verificador.java</file>
-            <file>file:/C:/Users/steve/Downloads/Patrones/Patrones/src/Facade/ProductoEnReparacion.java</file>
+            <file>file:/C:/Users/erisi/Documents/GitHub/TallerPatrones/Patrones/src/patrones/Computadora.java</file>
+            <file>file:/C:/Users/erisi/Documents/GitHub/TallerPatrones/Patrones/src/patrones/ArticuloTecnologico.java</file>
+            <file>file:/C:/Users/erisi/Documents/GitHub/TallerPatrones/Patrones/src/patrones/Bodega.java</file>
         </group>
     </open-files>
 </project-private>

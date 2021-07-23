@@ -3,12 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Builder;
+package FactoryMethod;
 
 /**
  *
  * @author erisi
  */
-public interface Transporte {
-    public void enviar();
+public class ViaCiclista extends Via{
+    @Override
+    public void createTransport(){
+        /**
+         * Se crea el transporte especifico para este metodo
+         */
+    }
 }

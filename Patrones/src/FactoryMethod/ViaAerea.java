@@ -3,19 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Builder;
+package FactoryMethod;
 
 /**
  *
  * @author erisi
  */
-public abstract class Via {
-
-    public void planDeEnvio(){
+public class ViaAerea extends Via{
+    @Override
+    public void createTransport(){
         /**
-         * Se especifica el plan de envio 
+         * Se crea el transporte especifico para este metodo
          */
     }
-    
-    public abstract void createTransport();
 }

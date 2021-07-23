@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Builder;
+package FactoryMethod;
 
 /**
  *
  * @author erisi
  */
-public abstract class Auto implements Transporte{
+public class Tren implements Transporte{
     @Override
     public void enviar(){
         
